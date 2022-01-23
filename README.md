@@ -8,6 +8,7 @@ The purpose of this project was to perform an exploratory analysis on the data i
 
 ## Files Used:
 [city_data.csv](Resources/city_data.csv)
+
 [ride_data.csv](Resources/ride_data.csv)
 
 ## Results:
