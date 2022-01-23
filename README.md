@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of PyBer Analysis
-The purpose of this project is to provide an analysis on the relationship between types of cities and the number of drivers/riders, total fares by driver and the tonal number of rides that occured between January 2019 until April 2019. The results will be presented using several types of visual aids in order to quickly summarize the findings for the CEO to review.
+The purpose of this project is to provide an analysis on the relationship between types of cities and the number of drivers/riders, total fares by driver and the total number of rides that occured between January 2019 until April 2019. The results will be presented using several types of visual aids in order to quickly summarize the findings for the CEO to review.
 
 ## Purpose
 The purpose of this project was to perform an exploratory analysis on the data inside the CSV files which will be aided by some visualizations. These visualizations (Scatter Plots and Pie Charts) will be performed by utilizing the functionality of Python scripting. Python libraries such as Pandas and Matplotlib inside our Jupyter Notebook will help us in accomplishing this task. This will help us showcase the relationship between the type of city, the number of drivers/riders as well as the percentage of total fares, riders by type of city as per the request of PyBer's CEO to improve PyBers access to ride-sharing service and determine affordability for certain neighbourhoods.
